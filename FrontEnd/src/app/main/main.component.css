@@ -1,0 +1,23 @@
+.main-wrapper {
+  padding-top: 10rem;
+}
+
+.gap {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+
+.input-narrow {
+  text-align: center;  
+  width: 200px; 
+  margin: auto;
+}
+
+.main {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+
+.message {
+  min-height: 9rem;
+}

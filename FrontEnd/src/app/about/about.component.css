@@ -1,0 +1,14 @@
+.hidden {
+  opacity: 0.2;
+  font-size: 5pt;
+}
+
+.about-margin {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
+
+.about-wrap { 
+  padding-top: 30px;
+  padding-bottom: 80px;
+}

@@ -1,0 +1,9 @@
+.warning {
+    color: red;
+    font-weight: bold;
+}
+
+.wrap { 
+    padding-top: 30px;
+    padding-bottom: 250px;
+  }
